@@ -45,9 +45,10 @@ As a minimum as each stage is completed a git tag should be applied to easily al
 
 
 <HR>
-<B>Open Questions</B>
+<B>Open Questions/Concerns</B>
 <HR>
-* ?
+* Going over the LinkedIn profiles most people are relatively new to the business
+* Some being incorporated from BO, what is the risks/opportunities of working in such a new business?
 
 <HR>
 <B>App Feedback - Review</B>
