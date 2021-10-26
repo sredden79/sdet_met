@@ -8,7 +8,7 @@ LinkedIn Tech Stacks Mentioned
 
 * Abolade Omole - Quality Assurance Engineer at Mettle
   * Tools:
-    JIRA / Confluence, Postman, Git, Webdrive-IO, Docker, IntelliJ Idea, Visual Studio, Android Studio, X-Code, SQL
+    JIRA / Confluence, Postman, Git, Webdriver-IO, Docker, IntelliJ Idea, Visual Studio, Android Studio, X-Code, SQL
 
 * Richard George - Developer at Mettle
   * Java 11, Micronaut, Kafka, CQRS, Event Sourcing, Kubernetes
