@@ -1,7 +1,11 @@
 ___
 **Questions**
 * What is used for auditing?  - Hive?
-
+* It looks like a lot of the current Spring tech stack is going into maintenance mode
+  * https://dzone.com/articles/the-future-of-spring-cloud-microservices-after-net
+  * Starting from the Spring Cloud Greenwich release Train, Netflix OSS, Archaius, Hystrix, Ribbon, and Zuul are entering maintenance mode
+  * What's next?
+    * Hystrix => Atlas
 ___ 
 **Reading Topics**
 * Spring uses EVCache
@@ -46,6 +50,7 @@ ___
 * Graphite
   * https://grafana.com/docs/grafana/latest/datasources/graphite/
 * GitOps
+* Kubernetes
 
 ___
 
@@ -68,7 +73,7 @@ ___
 * Harder to implement changes across multiple modules because of coordination across multiple teams.
 * Deploying is harder because there are multiple binaries, but this process is made easier with modern cloud infrastructures.
 
-
+___
 
 LinkedIn Tech Stacks Mentioned
 <HR>
