@@ -62,12 +62,12 @@ As a minimum as each stage is completed a git tag should be applied to easily al
 **Thoughts on specific feed back**
 * **2021-10-19** : Automatically logging out when switching out of the app to get details to use on the invoice generation = annoyed user
     * Banking apps need to be secure
-    * Potential solutions to this issue which I find particularly annoying also (without having knowledge the security is implemented)
+    * Potential solutions to this issue which I find particularly annoying also (without having knowledge how the security is implemented)
     * Sandbox the invoice generation part of the app to allow swapping between apps without being logged out when in the invoice creation section.  Moving out of the invoice creation section of the app to, sending or any other banking areas of the app would then need re-authorisation to continue.
     * Add an import option into the app and allow text to be cut and paste more freely within the app to allow for the invoice creation.
 * **2021-08-19** : Wants to see balances from other bank accounts
     * Open banking integration
 *  **2021-08-30** : Want to upload PDF of receipts instead of taking a screenshot and upload the screenshot
     * No reason why you can't convert the PDF to a small image automatically (doing automatic downscaling needs to make sure details are still legible) 
-*  **2021-09-01** : Complained that he sent invoice was deleted by the app, only discovered when incoming invoice was not matched
+*  **2021-09-01** : Complained that a sent invoice was deleted by the app, only discovered when incoming invoice was not matched
     * Needs to save the invoice, confirm invoice is saved successfully before attempting sending out the invoice
