@@ -16,4 +16,4 @@ ___
 * James 
   * https://www.linkedin.com/in/jamesgawn/
   * or
-  * https://www.linkedin.com/in/james-gee/cd c:#
+  * https://www.linkedin.com/in/james-gee/

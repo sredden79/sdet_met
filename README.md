@@ -5,17 +5,16 @@ This project is used to show the thought process of preparing for/highlighting t
 The stages should help focus the structure of the preparation.
 As a minimum as each stage is completed a git tag should be applied to easily allow for diffs between each stage to see the progression of the thought process
 
-<HR>
-<B>Stage 1 : BRAINSTORM</B>
+___
+**Stage 1 : BRAINSTORM**
 
 * Review the LinkedIn profiles for existing employees at the company to get a better understanding of the tech stack used (or ask)
 * Download App
   * Look at current App reviews - Google Play Store
-
-
-<HR>
-<B>Stage 2 : DOCUMENT TECH STACK TO IMPLEMENT</B>
-
+  
+___
+**Stage 2 : IMPLEMENT A BASIC API**
+* Spring IO - Ne
 * CI Pipeline/Jenkins/Cloud/Docker?
 * Set out package structure
 
