@@ -13,14 +13,20 @@ ___
   * Look at current App reviews - Google Play Store
   
 ___
-**Stage 2 : IMPLEMENT A BASIC API**
-* Spring IO - Ne
-* CI Pipeline/Jenkins/Cloud/Docker?
-* Set out package structure
+**Stage 2 : IMPLEMENT A SPRING FRAMEWORK**
+* https://www.baeldung.com/spring-cloud-rest-client-with-netflix-ribbon
 
-<HR>
-<B>Stage 3 : IMPLEMENT</B>
+___
+**Stage 4 : IMPLEMENT THE INTEGRATION TEST**
+* https://www.baeldung.com/spring-cloud-feign-integration-tests
+* https://github.com/eliasnogueira/restassured-complete-basic-example.git 
+* a cheat sheet off https://youtu.be/_I9VdgsP2Mg
+* https://1.bp.blogspot.com/-VytsHklKIek/WNo2RDV-fvI/AAAAAAAAT6I/Cdweyqu38wgmhnpkVzPkV6b7kiVyB2v0QCLcB/s1600/1.png
 
+
+
+
+---
 * Take into consideration re-use (maybe setup core lib)
 * Maven Dependency Management BOM POM
 * Include reporting (cucumber reports?)
