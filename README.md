@@ -5,26 +5,23 @@ This project is used to show the thought process of preparing for/highlighting t
 The stages should help focus the structure of the preparation.
 As a minimum as each stage is completed a git tag should be applied to easily allow for diffs between each stage to see the progression of the thought process
 
-<HR>
-<B>Stage 1 : BRAINSTORM</B>
+___
+**Stage 1 : BRAINSTORM**
 
 * Review the LinkedIn profiles for existing employees at the company to get a better understanding of the tech stack used (or ask)
 * Download App
   * Look at current App reviews - Google Play Store
+  
+___
+**Stage 2 : IMPORT EXAMPLE TECH STACK**
 
+Bringing in the code from:
+* https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-eureka
 
-<HR>
-<B>Stage 2 : DOCUMENT TECH STACK TO IMPLEMENT</B>
-
-* CI Pipeline/Jenkins/Cloud/Docker?
-* Set out package structure
-
-<HR>
-<B>Stage 3 : IMPLEMENT</B>
-
-* Take into consideration re-use (maybe setup core lib)
-* Maven Dependency Management BOM POM
-* Include reporting (cucumber reports?)
+___
+**Stage 3 : Look at the example integration test**
+* Understand how the feign client integration tests work from the example
+* https://www.baeldung.com/spring-cloud-feign-integration-tests
 * ....
 
 <HR>
